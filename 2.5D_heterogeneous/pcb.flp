@@ -1,0 +1,5 @@
+Element1 :
+  position    0, 0 ;
+  dimension   13600, 6600 ;
+  discretization 164, 80;
+  power values 0 ;

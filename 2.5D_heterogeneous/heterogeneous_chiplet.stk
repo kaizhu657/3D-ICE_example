@@ -1,0 +1,423 @@
+material GDS_mat0 :
+   thermal conductivity     1.500000e-06, 1.500000e-06, 1.500000e-06;
+   volumetric heat capacity 1.540000e-12;
+
+material GDS_mat2 :
+   thermal conductivity     1.534783e-06, 1.534783e-06, 9.170000e-06;
+   volumetric heat capacity 1.578192e-12;
+
+material GDS_mat3 :
+   thermal conductivity     1.554171e-06, 1.554171e-06, 1.300500e-05;
+   volumetric heat capacity 1.597288e-12;
+
+material GDS_mat4 :
+   thermal conductivity     1.574635e-06, 1.574635e-06, 1.684000e-05;
+   volumetric heat capacity 1.616384e-12;
+
+material GDS_mat5 :
+   thermal conductivity     1.596116e-06, 1.596116e-06, 2.067500e-05;
+   volumetric heat capacity 1.635480e-12;
+
+material GDS_mat6 :
+   thermal conductivity     1.618583e-06, 1.618583e-06, 2.451000e-05;
+   volumetric heat capacity 1.654576e-12;
+
+material GDS_mat7 :
+   thermal conductivity     1.642019e-06, 1.642019e-06, 2.834500e-05;
+   volumetric heat capacity 1.673672e-12;
+
+material GDS_mat8 :
+   thermal conductivity     1.666420e-06, 1.666420e-06, 3.218000e-05;
+   volumetric heat capacity 1.692768e-12;
+
+material GDS_mat9 :
+   thermal conductivity     1.691786e-06, 1.691786e-06, 3.601500e-05;
+   volumetric heat capacity 1.711864e-12;
+
+material GDS_mat10 :
+   thermal conductivity     1.718124e-06, 1.718124e-06, 3.985000e-05;
+   volumetric heat capacity 1.730960e-12;
+
+material GDS_mat11 :
+   thermal conductivity     1.745445e-06, 1.745445e-06, 4.368500e-05;
+   volumetric heat capacity 1.750056e-12;
+
+material GDS_mat12 :
+   thermal conductivity     1.773764e-06, 1.773764e-06, 4.752000e-05;
+   volumetric heat capacity 1.769152e-12;
+
+material GDS_mat13 :
+   thermal conductivity     1.803098e-06, 1.803098e-06, 5.135500e-05;
+   volumetric heat capacity 1.788248e-12;
+
+material GDS_mat14 :
+   thermal conductivity     1.833468e-06, 1.833468e-06, 5.519000e-05;
+   volumetric heat capacity 1.807344e-12;
+
+material GDS_mat15 :
+   thermal conductivity     1.864897e-06, 1.864897e-06, 5.902500e-05;
+   volumetric heat capacity 1.826440e-12;
+
+material GDS_mat16 :
+   thermal conductivity     1.897409e-06, 1.897409e-06, 6.286000e-05;
+   volumetric heat capacity 1.845536e-12;
+
+material GDS_mat17 :
+   thermal conductivity     1.931034e-06, 1.931034e-06, 6.669500e-05;
+   volumetric heat capacity 1.864632e-12;
+
+material GDS_mat18 :
+   thermal conductivity     1.965801e-06, 1.965801e-06, 7.053000e-05;
+   volumetric heat capacity 1.883728e-12;
+
+material GDS_mat19 :
+   thermal conductivity     2.001742e-06, 2.001742e-06, 7.436500e-05;
+   volumetric heat capacity 1.902824e-12;
+
+material GDS_mat20 :
+   thermal conductivity     2.038892e-06, 2.038892e-06, 7.820000e-05;
+   volumetric heat capacity 1.921920e-12;
+
+material GDS_mat21 :
+   thermal conductivity     2.077289e-06, 2.077289e-06, 8.203500e-05;
+   volumetric heat capacity 1.941016e-12;
+
+material GDS_mat22 :
+   thermal conductivity     2.116973e-06, 2.116973e-06, 8.587000e-05;
+   volumetric heat capacity 1.960112e-12;
+
+material GDS_mat23 :
+   thermal conductivity     2.157985e-06, 2.157985e-06, 8.970500e-05;
+   volumetric heat capacity 1.979208e-12;
+
+material GDS_mat24 :
+   thermal conductivity     2.200371e-06, 2.200371e-06, 9.354000e-05;
+   volumetric heat capacity 1.998304e-12;
+
+material GDS_mat25 :
+   thermal conductivity     2.244179e-06, 2.244179e-06, 9.737500e-05;
+   volumetric heat capacity 2.017400e-12;
+
+material GDS_mat26 :
+   thermal conductivity     2.289459e-06, 2.289459e-06, 1.012100e-04;
+   volumetric heat capacity 2.036496e-12;
+
+material GDS_mat27 :
+   thermal conductivity     2.336265e-06, 2.336265e-06, 1.050450e-04;
+   volumetric heat capacity 2.055592e-12;
+
+material GDS_mat28 :
+   thermal conductivity     2.384655e-06, 2.384655e-06, 1.088800e-04;
+   volumetric heat capacity 2.074688e-12;
+
+material GDS_mat29 :
+   thermal conductivity     2.434690e-06, 2.434690e-06, 1.127150e-04;
+   volumetric heat capacity 2.093784e-12;
+
+material GDS_mat31 :
+   thermal conductivity     2.539955e-06, 2.539955e-06, 1.203850e-04;
+   volumetric heat capacity 2.131976e-12;
+
+material GDS_mat32 :
+   thermal conductivity     2.595325e-06, 2.595325e-06, 1.242200e-04;
+   volumetric heat capacity 2.151072e-12;
+
+material GDS_mat33 :
+   thermal conductivity     2.652623e-06, 2.652623e-06, 1.280550e-04;
+   volumetric heat capacity 2.170168e-12;
+
+material GDS_mat34 :
+   thermal conductivity     2.711931e-06, 2.711931e-06, 1.318900e-04;
+   volumetric heat capacity 2.189264e-12;
+
+material GDS_mat35 :
+   thermal conductivity     2.773334e-06, 2.773334e-06, 1.357250e-04;
+   volumetric heat capacity 2.208360e-12;
+
+material GDS_mat36 :
+   thermal conductivity     2.836927e-06, 2.836927e-06, 1.395600e-04;
+   volumetric heat capacity 2.227456e-12;
+
+material GDS_mat37 :
+   thermal conductivity     2.902808e-06, 2.902808e-06, 1.433950e-04;
+   volumetric heat capacity 2.246552e-12;
+
+material GDS_mat38 :
+   thermal conductivity     2.971082e-06, 2.971082e-06, 1.472300e-04;
+   volumetric heat capacity 2.265648e-12;
+
+material GDS_mat39 :
+   thermal conductivity     3.041861e-06, 3.041861e-06, 1.510650e-04;
+   volumetric heat capacity 2.284744e-12;
+
+material GDS_mat40 :
+   thermal conductivity     3.115266e-06, 3.115266e-06, 1.549000e-04;
+   volumetric heat capacity 2.303840e-12;
+
+material GDS_mat41 :
+   thermal conductivity     3.191424e-06, 3.191424e-06, 1.587350e-04;
+   volumetric heat capacity 2.322936e-12;
+
+material GDS_mat42 :
+   thermal conductivity     3.270472e-06, 3.270472e-06, 1.625700e-04;
+   volumetric heat capacity 2.342032e-12;
+
+material GDS_mat43 :
+   thermal conductivity     3.352557e-06, 3.352557e-06, 1.664050e-04;
+   volumetric heat capacity 2.361128e-12;
+
+material GDS_mat44 :
+   thermal conductivity     3.437834e-06, 3.437834e-06, 1.702400e-04;
+   volumetric heat capacity 2.380224e-12;
+
+material GDS_mat47 :
+   thermal conductivity     3.714572e-06, 3.714572e-06, 1.817450e-04;
+   volumetric heat capacity 2.437512e-12;
+
+material GDS_mat48 :
+   thermal conductivity     3.814435e-06, 3.814435e-06, 1.855800e-04;
+   volumetric heat capacity 2.456608e-12;
+
+material GDS_mat49 :
+   thermal conductivity     3.918468e-06, 3.918468e-06, 1.894150e-04;
+   volumetric heat capacity 2.475704e-12;
+
+material GDS_mat51 :
+   thermal conductivity     4.140039e-06, 4.140039e-06, 1.970850e-04;
+   volumetric heat capacity 2.513896e-12;
+
+material GDS_mat52 :
+   thermal conductivity     4.258122e-06, 4.258122e-06, 2.009200e-04;
+   volumetric heat capacity 2.532992e-12;
+
+material GDS_mat53 :
+   thermal conductivity     4.381475e-06, 4.381475e-06, 2.047550e-04;
+   volumetric heat capacity 2.552088e-12;
+
+material GDS_mat54 :
+   thermal conductivity     4.510431e-06, 4.510431e-06, 2.085900e-04;
+   volumetric heat capacity 2.571184e-12;
+
+material GDS_mat55 :
+   thermal conductivity     4.645356e-06, 4.645356e-06, 2.124250e-04;
+   volumetric heat capacity 2.590280e-12;
+
+material GDS_mat56 :
+   thermal conductivity     4.786644e-06, 4.786644e-06, 2.162600e-04;
+   volumetric heat capacity 2.609376e-12;
+
+material GDS_mat57 :
+   thermal conductivity     4.934730e-06, 4.934730e-06, 2.200950e-04;
+   volumetric heat capacity 2.628472e-12;
+
+material GDS_mat58 :
+   thermal conductivity     5.090086e-06, 5.090086e-06, 2.239300e-04;
+   volumetric heat capacity 2.647568e-12;
+
+material GDS_mat60 :
+   thermal conductivity     5.424738e-06, 5.424738e-06, 2.316000e-04;
+   volumetric heat capacity 2.685760e-12;
+
+material GDS_mat61 :
+   thermal conductivity     5.605231e-06, 5.605231e-06, 2.354350e-04;
+   volumetric heat capacity 2.704856e-12;
+
+material GDS_mat62 :
+   thermal conductivity     5.795403e-06, 5.795403e-06, 2.392700e-04;
+   volumetric heat capacity 2.723952e-12;
+
+material GDS_mat63 :
+   thermal conductivity     5.996019e-06, 5.996019e-06, 2.431050e-04;
+   volumetric heat capacity 2.743048e-12;
+
+material GDS_mat64 :
+   thermal conductivity     6.207928e-06, 6.207928e-06, 2.469400e-04;
+   volumetric heat capacity 2.762144e-12;
+
+material GDS_mat65 :
+   thermal conductivity     6.432075e-06, 6.432075e-06, 2.507750e-04;
+   volumetric heat capacity 2.781240e-12;
+
+material GDS_mat66 :
+   thermal conductivity     6.669510e-06, 6.669510e-06, 2.546100e-04;
+   volumetric heat capacity 2.800336e-12;
+
+material GDS_mat67 :
+   thermal conductivity     6.921412e-06, 6.921412e-06, 2.584450e-04;
+   volumetric heat capacity 2.819432e-12;
+
+material GDS_mat68 :
+   thermal conductivity     7.189100e-06, 7.189100e-06, 2.622800e-04;
+   volumetric heat capacity 2.838528e-12;
+
+material GDS_mat69 :
+   thermal conductivity     7.474062e-06, 7.474062e-06, 2.661150e-04;
+   volumetric heat capacity 2.857624e-12;
+
+material GDS_mat70 :
+   thermal conductivity     7.777977e-06, 7.777977e-06, 2.699500e-04;
+   volumetric heat capacity 2.876720e-12;
+
+material GDS_mat73 :
+   thermal conductivity     8.823877e-06, 8.823877e-06, 2.814550e-04;
+   volumetric heat capacity 2.934008e-12;
+
+material GDS_mat75 :
+   thermal conductivity     9.658917e-06, 9.658917e-06, 2.891250e-04;
+   volumetric heat capacity 2.972200e-12;
+
+material GDS_mat77 :
+   thermal conductivity     1.063658e-05, 1.063658e-05, 2.967950e-04;
+   volumetric heat capacity 3.010392e-12;
+
+material GDS_mat79 :
+   thermal conductivity     1.179612e-05, 1.179612e-05, 3.044650e-04;
+   volumetric heat capacity 3.048584e-12;
+
+material GDS_mat80 :
+   thermal conductivity     1.246049e-05, 1.246049e-05, 3.083000e-04;
+   volumetric heat capacity 3.067680e-12;
+
+material GDS_mat81 :
+   thermal conductivity     1.319266e-05, 1.319266e-05, 3.121350e-04;
+   volumetric heat capacity 3.086776e-12;
+
+material GDS_mat82 :
+   thermal conductivity     1.400345e-05, 1.400345e-05, 3.159700e-04;
+   volumetric heat capacity 3.105872e-12;
+
+material GDS_mat83 :
+   thermal conductivity     1.490613e-05, 1.490613e-05, 3.198050e-04;
+   volumetric heat capacity 3.124968e-12;
+
+material GDS_mat85 :
+   thermal conductivity     1.705696e-05, 1.705696e-05, 3.274750e-04;
+   volumetric heat capacity 3.163160e-12;
+
+material GDS_mat86 :
+   thermal conductivity     1.835184e-05, 1.835184e-05, 3.313100e-04;
+   volumetric heat capacity 3.182256e-12;
+
+material GDS_mat87 :
+   thermal conductivity     1.983549e-05, 1.983549e-05, 3.351450e-04;
+   volumetric heat capacity 3.201352e-12;
+
+material GDS_mat88 :
+   thermal conductivity     2.155220e-05, 2.155220e-05, 3.389800e-04;
+   volumetric heat capacity 3.220448e-12;
+
+material GDS_mat89 :
+   thermal conductivity     2.356129e-05, 2.356129e-05, 3.428150e-04;
+   volumetric heat capacity 3.239544e-12;
+
+material GDS_mat90 :
+   thermal conductivity     2.594410e-05, 2.594410e-05, 3.466500e-04;
+   volumetric heat capacity 3.258640e-12;
+
+material GDS_mat91 :
+   thermal conductivity     2.881522e-05, 2.881522e-05, 3.504850e-04;
+   volumetric heat capacity 3.277736e-12;
+
+material GDS_mat92 :
+   thermal conductivity     3.234141e-05, 3.234141e-05, 3.543200e-04;
+   volumetric heat capacity 3.296832e-12;
+
+material GDS_mat93 :
+   thermal conductivity     3.677514e-05, 3.677514e-05, 3.581550e-04;
+   volumetric heat capacity 3.315928e-12;
+
+material GDS_mat94 :
+   thermal conductivity     4.251774e-05, 4.251774e-05, 3.619900e-04;
+   volumetric heat capacity 3.335024e-12;
+
+material GDS_mat96 :
+   thermal conductivity     6.121277e-05, 6.121277e-05, 3.696600e-04;
+   volumetric heat capacity 3.373216e-12;
+
+material GDS_mat97 :
+   thermal conductivity     7.797606e-05, 7.797606e-05, 3.734950e-04;
+   volumetric heat capacity 3.392312e-12;
+
+material GDS_mat98 :
+   thermal conductivity     1.067869e-04, 1.067869e-04, 3.773300e-04;
+   volumetric heat capacity 3.411408e-12;
+
+material GDS_mat99 :
+   thermal conductivity     1.679070e-04, 1.679070e-04, 3.811650e-04;
+   volumetric heat capacity 3.430504e-12;
+
+material GDS_mat100 :
+   thermal conductivity     3.850000e-04, 3.850000e-04, 3.850000e-04;
+   volumetric heat capacity 3.449600e-12;
+
+
+material SILICON :
+   thermal conductivity     1.3e-4;
+   volumetric heat capacity 1.61e-12;
+
+material CU :
+   thermal conductivity     3.85e-4;
+   volumetric heat capacity 3.45e-12 ;
+   
+material TIM :
+   thermal conductivity     5e-6 ;
+   volumetric heat capacity 2.5e-12 ;
+   
+material BUMP :
+   thermal conductivity     5.5e-6, 5.5e-6, 1.13e-4 ;
+   volumetric heat capacity 1.845e-12 ; 
+   
+top heat sink :
+   heat transfer coefficient 1.0e-7 ;
+   temperature               300 ;
+
+dimensions :
+   chip length 13600, width 6600 ;
+   cell length   50, width   50 ;
+   non-uniform true;
+
+die Bump1 :
+   source  50 BUMP ;
+
+die Bump2 :
+   source  50 BUMP ;
+
+die Chip :
+   source  50 SILICON ;
+   
+die TIM_layer :
+   source  7.5 TIM ;
+
+die Interposer_layer :
+   source  100 SILICON ;
+
+die Heatsink_layer :
+   source  50 CU ;
+
+die PCB :
+   source  250 SILICON ;
+
+stack:
+   die     Layer_1_1      Heatsink_layer    floorplan "./heatsink.flp";
+   die     Layer_2_1      TIM_layer         floorplan "./TIM.flp";
+   die     Layer_2_2      TIM_layer         floorplan "./TIM.flp";
+   die     Layer_2_3      TIM_layer         floorplan "./TIM.flp";
+   die     Layer_2_4      TIM_layer         floorplan "./TIM.flp";
+   die     Layer_3_1      Chip              floorplan "./4chip.flp" ;
+   die     Layer_3_2      Chip              floorplan "./4chip.flp" ;
+   die     Layer_4_1      Bump1             floorplan "./bump1.flp" ;
+   die     Layer_5_1      Interposer_layer  floorplan "./interposer.flp" ;
+   die     Layer_6_1      Bump2             floorplan "./bump2.flp" ;
+   die     Layer_7_1      PCB               floorplan "./pcb.flp" ;
+   die     Layer_7_2      PCB               floorplan "./pcb.flp" ;
+   die     Layer_7_3      PCB               floorplan "./pcb.flp" ;
+   die     Layer_7_4      PCB               floorplan "./pcb.flp" ;
+
+solver:
+   steady ;
+   initial temperature 300.0 ;
+   type cpu_direct_lu ;
+   numofcores 4 ;   
+
+output:
+T3d      (                             "polygon_ite8.vtk",           final  ) ;

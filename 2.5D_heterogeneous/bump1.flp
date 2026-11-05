@@ -1,0 +1,23 @@
+Element1 :
+  position    1200, 200 ;
+  dimension   5000, 3000 ;
+  discretization 95, 57 ;
+  power values 0 ;
+
+Element2 :
+  position    7400, 200 ;
+  dimension   5000, 3000 ;
+  discretization 95, 57 ;
+  power values 0 ;
+
+Element3 :
+  position    1200, 3400 ;
+  dimension   5000, 3000 ;
+  discretization 95, 57 ;
+  power values 0 ;
+
+Element4 :
+  position    7400, 3400 ;
+  dimension   5000, 3000 ;
+  discretization 95, 57 ;
+  power values 0 ;
